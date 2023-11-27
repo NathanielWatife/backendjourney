@@ -21,5 +21,5 @@
 
 ## It’s all about Data Structure Algorithm And Django.
 
-<img src="https://images.unsplash.com/photo-1640158615573-cd28feb1bf4e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="DATA STRUCTURE ALGORITHM IN PYTHON" style="max-width:600px;"/>
-<img src="https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="DJANGO" style="max-width:600px;"/>
+- [Data Structure and Algorithm]<img src="https://images.unsplash.com/photo-1640158615573-cd28feb1bf4e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="DATA STRUCTURE ALGORITHM IN PYTHON" style="max-width:300px;"/>
+- [Django]<img src="https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="DJANGO" style="max-width:300px;"/>
