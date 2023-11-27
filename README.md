@@ -20,5 +20,5 @@
     - [LinkedIn](https://www.linkedin.com/in/%20boluwatife-awosanmi-251881198)
 
 ## It’s all about Data Structure Algorithm And Django.
-- ![DATA STRUCTURE ALGORITHM IN PYTHON](https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-depicts-a-look-inside-how-ai-microchips-are-designed-it-was-created-by-champ-panupong-techawongthawon-as-part-of-the-v-17483848/)
-- ![DJANGO](https://unsplash.com/photos/black-and-yellow-box-on-white-table-BI465ksrlWs)
+- ![DATA STRUCTURE ALGORITHM IN PYTHON](/home/dev_nath/Downloads/photo-1640158615573-cd28feb1bf4e.avif)
+- ![DJANGO](home/dev_nath/Downloads/photo-1580121441575-41bcb5c6b47c.avif)
